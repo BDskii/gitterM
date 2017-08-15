@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<UsualGroup name="Группа2" id="27">
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="28"/>
+			<ChildItems>
+				<InputField name="Владелец" id="4">
+					<DataPath>Объект.Owner</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ВладелецКонтекстноеМеню" id="5"/>
+					<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="6"/>
+				</InputField>
+				<InputField name="ВерсияКонфигурации" id="19">
+					<DataPath>Объект.ВерсияКонфигурации</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ВерсияКонфигурацииКонтекстноеМеню" id="20"/>
+					<ExtendedTooltip name="ВерсияКонфигурацииРасширеннаяПодсказка" id="21"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="Группа1" id="22">
+			<Group>Horizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="23"/>
+			<ChildItems>
+				<InputField name="Код" id="1">
+					<DataPath>Объект.Code</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+					<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+				</InputField>
+				<InputField name="НомерВХранилище" id="24">
+					<DataPath>Объект.НомерВХранилище</DataPath>
+					<ContextMenu name="НомерВХранилищеКонтекстноеМеню" id="25"/>
+					<ExtendedTooltip name="НомерВХранилищеРасширеннаяПодсказка" id="26"/>
+				</InputField>
+				<InputField name="ДатаСоздания" id="7">
+					<DataPath>Объект.ДатаСоздания</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ДатаСозданияКонтекстноеМеню" id="8"/>
+					<ExtendedTooltip name="ДатаСозданияРасширеннаяПодсказка" id="9"/>
+				</InputField>
+				<CheckBoxField name="ВыгруженаВЛокальныйРепозиторий" id="16">
+					<DataPath>Объект.ВыгруженаВЛокальныйРепозиторий</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="ВыгруженаВЛокальныйРепозиторийКонтекстноеМеню" id="17"/>
+					<ExtendedTooltip name="ВыгруженаВЛокальныйРепозиторийРасширеннаяПодсказка" id="18"/>
+				</CheckBoxField>
+			</ChildItems>
+		</UsualGroup>
+		<InputField name="Пользователь" id="10">
+			<DataPath>Объект.Пользователь</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="ПользовательКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ПользовательРасширеннаяПодсказка" id="12"/>
+		</InputField>
+		<Pages name="ГруппаСтраницы" id="29">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа страницы</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа страницы</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ExtendedTooltip name="ГруппаСтраницыРасширеннаяПодсказка" id="30"/>
+			<ChildItems>
+				<Page name="ГруппаСтраницаКомментарий" id="31">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Комментарий</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа страница комментарий</v8:content>
+						</v8:item>
+					</ToolTip>
+					<ExtendedTooltip name="ГруппаСтраницаКомментарийРасширеннаяПодсказка" id="32"/>
+					<ChildItems>
+						<InputField name="Комментарий" id="13">
+							<DataPath>Объект.Комментарий</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<EditMode>EnterOnInput</EditMode>
+							<AutoMaxWidth>false</AutoMaxWidth>
+							<AutoMaxHeight>false</AutoMaxHeight>
+							<ContextMenu name="КомментарийКонтекстноеМеню" id="14"/>
+							<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="15"/>
+						</InputField>
+					</ChildItems>
+				</Page>
+				<Page name="ГруппаСтраницаИзмененныеФайлы" id="33">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Измененные файлы</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа страница измененные файлы</v8:content>
+						</v8:item>
+					</ToolTip>
+					<TitleDataPath>Объект.ИзмененныеФайлы.RowsCount</TitleDataPath>
+					<ExtendedTooltip name="ГруппаСтраницаИзмененныеФайлыРасширеннаяПодсказка" id="34"/>
+					<ChildItems>
+						<Table name="ИзмененныеФайлы" id="35">
+							<CommandBarLocation>None</CommandBarLocation>
+							<ReadOnly>true</ReadOnly>
+							<ChangeRowSet>false</ChangeRowSet>
+							<ChangeRowOrder>false</ChangeRowOrder>
+							<AutoInsertNewRow>true</AutoInsertNewRow>
+							<EnableStartDrag>true</EnableStartDrag>
+							<EnableDrag>true</EnableDrag>
+							<DataPath>Объект.ИзмененныеФайлы</DataPath>
+							<RowFilter xsi:nil="true"/>
+							<ContextMenu name="ИзмененныеФайлыКонтекстноеМеню" id="36"/>
+							<AutoCommandBar name="ИзмененныеФайлыКоманднаяПанель" id="37"/>
+							<ExtendedTooltip name="ИзмененныеФайлыРасширеннаяПодсказка" id="38"/>
+							<SearchStringAddition name="ИзмененныеФайлыСтрокаПоиска" id="39">
+								<AdditionSource>
+									<Item>ИзмененныеФайлы</Item>
+									<Type>SearchStringRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеФайлыСтрокаПоискаКонтекстноеМеню" id="40"/>
+								<ExtendedTooltip name="ИзмененныеФайлыСтрокаПоискаРасширеннаяПодсказка" id="41"/>
+							</SearchStringAddition>
+							<ViewStatusAddition name="ИзмененныеФайлыСостояниеПросмотра" id="42">
+								<AdditionSource>
+									<Item>ИзмененныеФайлы</Item>
+									<Type>ViewStatusRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеФайлыСостояниеПросмотраКонтекстноеМеню" id="43"/>
+								<ExtendedTooltip name="ИзмененныеФайлыСостояниеПросмотраРасширеннаяПодсказка" id="44"/>
+							</ViewStatusAddition>
+							<SearchControlAddition name="ИзмененныеФайлыУправлениеПоиском" id="45">
+								<AdditionSource>
+									<Item>ИзмененныеФайлы</Item>
+									<Type>SearchControl</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеФайлыУправлениеПоискомКонтекстноеМеню" id="46"/>
+								<ExtendedTooltip name="ИзмененныеФайлыУправлениеПоискомРасширеннаяПодсказка" id="47"/>
+							</SearchControlAddition>
+							<ChildItems>
+								<LabelField name="ИзмененныеФайлыНомерСтроки" id="48">
+									<DataPath>Объект.ИзмененныеФайлы.LineNumber</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИзмененныеФайлыНомерСтрокиКонтекстноеМеню" id="49"/>
+									<ExtendedTooltip name="ИзмененныеФайлыНомерСтрокиРасширеннаяПодсказка" id="50"/>
+								</LabelField>
+								<InputField name="ИзмененныеФайлыФайл" id="51">
+									<DataPath>Объект.ИзмененныеФайлы.Файл</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИзмененныеФайлыФайлКонтекстноеМеню" id="52"/>
+									<ExtendedTooltip name="ИзмененныеФайлыФайлРасширеннаяПодсказка" id="53"/>
+								</InputField>
+							</ChildItems>
+						</Table>
+					</ChildItems>
+				</Page>
+				<Page name="ГруппаСтраницаИзмененныеОбъекты" id="54">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Измененные объекты</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа страница измененные объекты</v8:content>
+						</v8:item>
+					</ToolTip>
+					<TitleDataPath>Объект.ИзмененныеОбъекты.RowsCount</TitleDataPath>
+					<ExtendedTooltip name="ГруппаСтраницаИзмененныеОбъектыРасширеннаяПодсказка" id="55"/>
+					<ChildItems>
+						<Table name="ИзмененныеОбъекты" id="56">
+							<CommandBarLocation>None</CommandBarLocation>
+							<ReadOnly>true</ReadOnly>
+							<ChangeRowSet>false</ChangeRowSet>
+							<ChangeRowOrder>false</ChangeRowOrder>
+							<AutoInsertNewRow>true</AutoInsertNewRow>
+							<EnableStartDrag>true</EnableStartDrag>
+							<EnableDrag>true</EnableDrag>
+							<DataPath>Объект.ИзмененныеОбъекты</DataPath>
+							<RowPictureDataPath>Объект.ИзмененныеОбъекты.ИндексКартинки</RowPictureDataPath>
+							<RowsPicture>
+								<xr:Ref>CommonPicture.ТипыОбъектов</xr:Ref>
+								<xr:LoadTransparent>true</xr:LoadTransparent>
+							</RowsPicture>
+							<RowFilter xsi:nil="true"/>
+							<ContextMenu name="ИзмененныеОбъектыКонтекстноеМеню" id="57"/>
+							<AutoCommandBar name="ИзмененныеОбъектыКоманднаяПанель" id="58"/>
+							<ExtendedTooltip name="ИзмененныеОбъектыРасширеннаяПодсказка" id="59"/>
+							<SearchStringAddition name="ИзмененныеОбъектыСтрокаПоиска" id="60">
+								<AdditionSource>
+									<Item>ИзмененныеОбъекты</Item>
+									<Type>SearchStringRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеОбъектыСтрокаПоискаКонтекстноеМеню" id="61"/>
+								<ExtendedTooltip name="ИзмененныеОбъектыСтрокаПоискаРасширеннаяПодсказка" id="62"/>
+							</SearchStringAddition>
+							<ViewStatusAddition name="ИзмененныеОбъектыСостояниеПросмотра" id="63">
+								<AdditionSource>
+									<Item>ИзмененныеОбъекты</Item>
+									<Type>ViewStatusRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеОбъектыСостояниеПросмотраКонтекстноеМеню" id="64"/>
+								<ExtendedTooltip name="ИзмененныеОбъектыСостояниеПросмотраРасширеннаяПодсказка" id="65"/>
+							</ViewStatusAddition>
+							<SearchControlAddition name="ИзмененныеОбъектыУправлениеПоиском" id="66">
+								<AdditionSource>
+									<Item>ИзмененныеОбъекты</Item>
+									<Type>SearchControl</Type>
+								</AdditionSource>
+								<ContextMenu name="ИзмененныеОбъектыУправлениеПоискомКонтекстноеМеню" id="67"/>
+								<ExtendedTooltip name="ИзмененныеОбъектыУправлениеПоискомРасширеннаяПодсказка" id="68"/>
+							</SearchControlAddition>
+							<ChildItems>
+								<LabelField name="ИзмененныеОбъектыНомерСтроки" id="69">
+									<DataPath>Объект.ИзмененныеОбъекты.LineNumber</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИзмененныеОбъектыНомерСтрокиКонтекстноеМеню" id="70"/>
+									<ExtendedTooltip name="ИзмененныеОбъектыНомерСтрокиРасширеннаяПодсказка" id="71"/>
+								</LabelField>
+								<InputField name="ИзмененныеОбъектыПуть" id="72">
+									<DataPath>Объект.ИзмененныеОбъекты.Путь</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИзмененныеОбъектыПутьКонтекстноеМеню" id="73"/>
+									<ExtendedTooltip name="ИзмененныеОбъектыПутьРасширеннаяПодсказка" id="74"/>
+								</InputField>
+								<InputField name="ИзмененныеОбъектыТипОбъекта" id="75">
+									<DataPath>Объект.ИзмененныеОбъекты.ТипОбъекта</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИзмененныеОбъектыТипОбъектаКонтекстноеМеню" id="76"/>
+									<ExtendedTooltip name="ИзмененныеОбъектыТипОбъектаРасширеннаяПодсказка" id="77"/>
+								</InputField>
+							</ChildItems>
+						</Table>
+					</ChildItems>
+				</Page>
+			</ChildItems>
+		</Pages>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:CatalogObject.ВерсииКонфигурацийХранилища</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+</Form>
