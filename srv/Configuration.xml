@@ -153,14 +153,18 @@
 			<CommonPicture>Метрики</CommonPicture>
 			<Interface>ирРазработчик</Interface>
 			<Interface>Основной</Interface>
+			<SessionParameter>НеПредлагатьУстановкуРасширенияРаботыСФайламиВТеченииСеанса</SessionParameter>
 			<CommonModule>_Глобальный</CommonModule>
 			<CommonModule>_ОбщегоНазначенияПовтИсп</CommonModule>
 			<CommonModule>Git</CommonModule>
 			<CommonModule>МетодыРегламентногоЗадания</CommonModule>
-			<CommonModule>ПакетныйРежим</CommonModule>
 			<CommonModule>ОбщегоНазначениеСервер</CommonModule>
-			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
+			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
+			<CommonModule>ОбщегоНазначенияКлиентПовтИсп</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
+			<CommonModule>ОбщегоНазначенияПривилегированныйСервер</CommonModule>
+			<CommonModule>ПакетныйРежим</CommonModule>
+			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
 			<ScheduledJob>ВыгрузкаВерсий</ScheduledJob>
 			<ScheduledJob>ПроверкаАПК</ScheduledJob>
 			<ScheduledJob>ЗагрузкаНовыхВерсий</ScheduledJob>
@@ -171,8 +175,14 @@
 			<Catalog>ПользователиХранилища</Catalog>
 			<Catalog>ПроверкаАПК</Catalog>
 			<Catalog>Хранилища</Catalog>
+			<Catalog>Метрики</Catalog>
+			<Catalog>ВнешниеОбработки</Catalog>
 			<Enum>ТипыОбъектов</Enum>
+			<Enum>ТипыИзменений</Enum>
+			<Enum>ВидыОбработок</Enum>
+			<Report>ОтчетПоМетрикам</Report>
 			<InformationRegister>УдалитьСписокИзменений</InformationRegister>
+			<InformationRegister>ДанныеМетрик</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

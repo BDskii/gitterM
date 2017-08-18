@@ -1279,6 +1279,69 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Attribute>
+			<TabularSection uuid="76afb4c1-a7ad-46ea-9a8f-bdb46b7dccb6">
+				<InternalInfo>
+					<xr:GeneratedType name="CatalogTabularSection.Хранилища.ИспользуемыеМетрики" category="TabularSection">
+						<xr:TypeId>fa5334c6-aea1-41e8-b45d-91c0804be9ac</xr:TypeId>
+						<xr:ValueId>9bc6ad05-c95f-4f95-b6ed-52cd5d60050b</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="CatalogTabularSectionRow.Хранилища.ИспользуемыеМетрики" category="TabularSectionRow">
+						<xr:TypeId>923527ff-696a-4edd-ba61-33b2f9b937ea</xr:TypeId>
+						<xr:ValueId>66321440-6e93-407b-9cf3-0659010c1732</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<Name>ИспользуемыеМетрики</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Используемые метрики</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<ToolTip/>
+					<FillChecking>DontCheck</FillChecking>
+					<Use>ForItem</Use>
+				</Properties>
+				<ChildObjects>
+					<Attribute uuid="7d574d33-1810-4907-88f8-c490b211a318">
+						<Properties>
+							<Name>Метрика</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Метрика</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<Type>
+								<v8:Type>cfg:CatalogRef.Метрики</v8:Type>
+							</Type>
+							<PasswordMode>false</PasswordMode>
+							<Format/>
+							<EditFormat/>
+							<ToolTip/>
+							<MarkNegatives>false</MarkNegatives>
+							<Mask/>
+							<MultiLine>false</MultiLine>
+							<ExtendedEdit>false</ExtendedEdit>
+							<MinValue xsi:nil="true"/>
+							<MaxValue xsi:nil="true"/>
+							<FillChecking>ShowError</FillChecking>
+							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+							<ChoiceParameterLinks/>
+							<ChoiceParameters/>
+							<QuickChoice>Auto</QuickChoice>
+							<CreateOnInput>Auto</CreateOnInput>
+							<ChoiceForm/>
+							<LinkByType/>
+							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+							<Indexing>DontIndex</Indexing>
+							<FullTextSearch>Use</FullTextSearch>
+						</Properties>
+					</Attribute>
+				</ChildObjects>
+			</TabularSection>
 			<Form>ФормаЭлемента</Form>
 			<Form>ФормаСписка</Form>
 			<Command uuid="5e668a69-6683-4e4c-9801-e329b0a254e1">

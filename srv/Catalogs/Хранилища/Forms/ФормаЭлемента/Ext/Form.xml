@@ -392,6 +392,71 @@
 						</CheckBoxField>
 					</ChildItems>
 				</Page>
+				<Page name="ГруппаСтраницаМетрики" id="216">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Метрики</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа страница метрики</v8:content>
+						</v8:item>
+					</ToolTip>
+					<ExtendedTooltip name="ГруппаСтраницаМетрикиРасширеннаяПодсказка" id="217"/>
+					<ChildItems>
+						<Table name="ИспользуемыеМетрики" id="218">
+							<AutoInsertNewRow>true</AutoInsertNewRow>
+							<EnableStartDrag>true</EnableStartDrag>
+							<EnableDrag>true</EnableDrag>
+							<DataPath>Объект.ИспользуемыеМетрики</DataPath>
+							<RowFilter xsi:nil="true"/>
+							<ContextMenu name="ИспользуемыеМетрикиКонтекстноеМеню" id="219"/>
+							<AutoCommandBar name="ИспользуемыеМетрикиКоманднаяПанель" id="220"/>
+							<ExtendedTooltip name="ИспользуемыеМетрикиРасширеннаяПодсказка" id="221"/>
+							<SearchStringAddition name="ИспользуемыеМетрикиСтрокаПоиска" id="222">
+								<AdditionSource>
+									<Item>ИспользуемыеМетрики</Item>
+									<Type>SearchStringRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИспользуемыеМетрикиСтрокаПоискаКонтекстноеМеню" id="223"/>
+								<ExtendedTooltip name="ИспользуемыеМетрикиСтрокаПоискаРасширеннаяПодсказка" id="224"/>
+							</SearchStringAddition>
+							<ViewStatusAddition name="ИспользуемыеМетрикиСостояниеПросмотра" id="225">
+								<AdditionSource>
+									<Item>ИспользуемыеМетрики</Item>
+									<Type>ViewStatusRepresentation</Type>
+								</AdditionSource>
+								<ContextMenu name="ИспользуемыеМетрикиСостояниеПросмотраКонтекстноеМеню" id="226"/>
+								<ExtendedTooltip name="ИспользуемыеМетрикиСостояниеПросмотраРасширеннаяПодсказка" id="227"/>
+							</ViewStatusAddition>
+							<SearchControlAddition name="ИспользуемыеМетрикиУправлениеПоиском" id="228">
+								<AdditionSource>
+									<Item>ИспользуемыеМетрики</Item>
+									<Type>SearchControl</Type>
+								</AdditionSource>
+								<ContextMenu name="ИспользуемыеМетрикиУправлениеПоискомКонтекстноеМеню" id="229"/>
+								<ExtendedTooltip name="ИспользуемыеМетрикиУправлениеПоискомРасширеннаяПодсказка" id="230"/>
+							</SearchControlAddition>
+							<ChildItems>
+								<LabelField name="ИспользуемыеМетрикиНомерСтроки" id="231">
+									<DataPath>Объект.ИспользуемыеМетрики.LineNumber</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИспользуемыеМетрикиНомерСтрокиКонтекстноеМеню" id="232"/>
+									<ExtendedTooltip name="ИспользуемыеМетрикиНомерСтрокиРасширеннаяПодсказка" id="233"/>
+								</LabelField>
+								<InputField name="ИспользуемыеМетрикиМетрика" id="234">
+									<DataPath>Объект.ИспользуемыеМетрики.Метрика</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИспользуемыеМетрикиМетрикаКонтекстноеМеню" id="235"/>
+									<ExtendedTooltip name="ИспользуемыеМетрикиМетрикаРасширеннаяПодсказка" id="236"/>
+								</InputField>
+							</ChildItems>
+						</Table>
+					</ChildItems>
+				</Page>
 				<Page name="Страница_НевыгруженныеВерсии" id="72">
 					<Title>
 						<v8:item>
