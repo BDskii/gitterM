@@ -112,6 +112,7 @@
 				<xr:Ref>StdPicture.SaveFile</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
+			<Action>Сохранить</Action>
 		</Command>
 	</Commands>
 </Form>

@@ -22,6 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Метрики</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДанныеМетрик</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоМетрикам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВнешниеОбработки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

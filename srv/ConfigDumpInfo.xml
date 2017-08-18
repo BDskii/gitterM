@@ -27,8 +27,8 @@
 			<Metadata name="Catalog.ВнешниеОбработки.Attribute.Хранилище" id="8b2d21eb-eb7c-4595-ba39-993a6e588b98"/>
 			<Metadata name="Catalog.ВнешниеОбработки.Attribute.ВидОбработки" id="8defb8b0-5e7a-4591-87e6-4c1cb84a0f0a"/>
 		</Metadata>
-		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента" id="a5351781-bd13-4ad1-815e-0072cc35a073" configVersion="96f3e00bc2c1ce4ba3467c94608a98d000000000"/>
-		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента.Form" id="a5351781-bd13-4ad1-815e-0072cc35a073.0" configVersion="029d84ebe801d34e8101cfa3e744a0fc00000000"/>
+		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента" id="a5351781-bd13-4ad1-815e-0072cc35a073" configVersion="c855d1143f5d65458baf4d66b15a332500000000"/>
+		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента.Form" id="a5351781-bd13-4ad1-815e-0072cc35a073.0" configVersion="fcc2467ec8d5da4da008d18329ed688300000000"/>
 		<Metadata name="Catalog.ВнешниеОбработки.ManagerModule" id="b9f94b22-47f0-4f50-9814-8e6623a4629b.3" configVersion="58c7b8846e7e964f9589afe27c2c5cdd00000000"/>
 		<Metadata name="Catalog.Метрики" id="029057d3-95d5-40de-968a-ca6cf74df62d" configVersion="86b0f195b70dcc4a8f36235d36a7befe00000000">
 			<Metadata name="Catalog.Метрики.Attribute.ОбработкаАнализаТекста" id="0e58ad22-da9b-4597-b6ad-f8cdaa9f5727"/>
@@ -257,6 +257,6 @@
 		<Metadata name="Style.ирОсновной.Style" id="d4fb5140-8838-483f-9452-47ac6138c9d1.0" configVersion="ebde5840d2f264459f34aa13b0fbebb200000000"/>
 		<Metadata name="Subsystem.GIT" id="dca1dc94-6477-42fa-89d2-8ea96ab8fffa" configVersion="220d06f61568ca468e680942e4eab1ae00000000"/>
 		<Metadata name="Subsystem.АПК" id="67317dab-1328-43c1-8ffd-f7db1fe405ff" configVersion="1bf8c7a837658b44a998cfb768853fcb00000000"/>
-		<Metadata name="Subsystem.Метрики" id="9be53869-08c6-4441-a2da-06d0397dc4e9" configVersion="02000a4abaf9784ca87d96e45f7757f400000000"/>
+		<Metadata name="Subsystem.Метрики" id="9be53869-08c6-4441-a2da-06d0397dc4e9" configVersion="9d1dbeda83ded74f8803c650393f8f8a00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
