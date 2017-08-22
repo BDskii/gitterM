@@ -151,8 +151,6 @@
 			<CommonPicture>Git</CommonPicture>
 			<CommonPicture>АПК</CommonPicture>
 			<CommonPicture>Метрики</CommonPicture>
-			<Interface>ирРазработчик</Interface>
-			<Interface>Основной</Interface>
 			<SessionParameter>НеПредлагатьУстановкуРасширенияРаботыСФайламиВТеченииСеанса</SessionParameter>
 			<CommonModule>_Глобальный</CommonModule>
 			<CommonModule>_ОбщегоНазначенияПовтИсп</CommonModule>

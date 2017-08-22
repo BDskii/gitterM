@@ -171,6 +171,29 @@
 				</Properties>
 			</Attribute>
 			<Form>ФормаЭлемента</Form>
+			<Command uuid="c037b005-aedf-4880-8bf9-3688b66a532d">
+				<Properties>
+					<Name>ОбновитьМетрики</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обновить метрики</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Group>CommandGroup.Действия</Group>
+					<CommandParameterType>
+						<v8:Type>cfg:CatalogRef.ВерсииКонфигурацийХранилища</v8:Type>
+						<v8:Type>cfg:CatalogRef.Хранилища</v8:Type>
+					</CommandParameterType>
+					<ParameterUseMode>Single</ParameterUseMode>
+					<ModifiesData>false</ModifiesData>
+					<Representation>Auto</Representation>
+					<ToolTip/>
+					<Picture/>
+					<Shortcut/>
+				</Properties>
+			</Command>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>

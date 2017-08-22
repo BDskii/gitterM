@@ -6,7 +6,7 @@
 				<Type>CommandBarButton</Type>
 				<OnlyInAllActions>true</OnlyInAllActions>
 				<CommandName>Catalog.Хранилища.Command.ВыгрузитьВерсииВРепозитории</CommandName>
-				<DataPath>~Items.Список.CurrentData.Ссылка</DataPath>
+				<DataPath>Items.Список.CurrentData.Ref</DataPath>
 				<Title>
 					<v8:item>
 						<v8:lang>ru</v8:lang>

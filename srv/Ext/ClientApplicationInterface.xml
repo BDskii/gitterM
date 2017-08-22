@@ -10,6 +10,11 @@
 			<uuid>8e10648b-f52d-4ec2-b4dd-87de33778d95</uuid>
 		</panel>
 	</left>
+	<bottom>
+		<panel id="2829a1df-1f67-4833-86fb-b1d7c8578d79">
+			<uuid>cbab57f2-a0f3-4f0a-89ea-4cb19570ab75</uuid>
+		</panel>
+	</bottom>
 	<panelDef id="b553047f-c9aa-4157-978d-448ecad24248"/>
 	<panelDef id="8e10648b-f52d-4ec2-b4dd-87de33778d95"/>
 	<panelDef id="13322b22-3960-4d68-93a6-fe2dd7f28ca3"/>
