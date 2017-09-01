@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="Catalog.ВерсииКонфигурацийХранилища" id="5e245168-0d5e-444d-8049-e19f14b087aa" configVersion="c5c56dba30abf64189b80e1a6ff37fbb00000000">
+		<Metadata name="Catalog.ВерсииКонфигурацийХранилища" id="5e245168-0d5e-444d-8049-e19f14b087aa" configVersion="52890bd344d18345aabd4e15de95e9b900000000">
 			<Metadata name="Catalog.ВерсииКонфигурацийХранилища.Attribute.Комментарий" id="15a724b9-aef5-49a7-850c-a2e9aa6f9db6"/>
 			<Metadata name="Catalog.ВерсииКонфигурацийХранилища.TabularSection.ИзмененныеФайлы.Attribute.Файл" id="1d5a3940-0bb0-41cc-b702-adae5ed253d7"/>
 			<Metadata name="Catalog.ВерсииКонфигурацийХранилища.Attribute.ДатаСоздания" id="23947c84-6dc0-477d-99a8-70deb4934024"/>
@@ -21,7 +21,7 @@
 		<Metadata name="Catalog.ВерсииКонфигурацийХранилища.Form.ФормаСписка.Form" id="197e2b9f-e9e1-4e39-a608-c8b49ed6415c.0" configVersion="05975b616ecc2a4092870b2256f4eb2800000000"/>
 		<Metadata name="Catalog.ВерсииКонфигурацийХранилища.Form.ФормаЭлемента" id="f61e219c-5651-4770-901d-7cbe9f9a5bb4" configVersion="84db723efe02674a9a4c8ceea869254100000000"/>
 		<Metadata name="Catalog.ВерсииКонфигурацийХранилища.Form.ФормаЭлемента.Form" id="f61e219c-5651-4770-901d-7cbe9f9a5bb4.0" configVersion="5c2134d5d4e7184bbb394350ed95f1fe00000000"/>
-		<Metadata name="Catalog.ВерсииКонфигурацийХранилища.ManagerModule" id="5e245168-0d5e-444d-8049-e19f14b087aa.3" configVersion="9e33eadb45b6bd43afaf5fb26a8f2f8500000000"/>
+		<Metadata name="Catalog.ВерсииКонфигурацийХранилища.ManagerModule" id="5e245168-0d5e-444d-8049-e19f14b087aa.3" configVersion="5dac0b31d345ac4880730750b0e6685400000000"/>
 		<Metadata name="Catalog.ВнешниеОбработки" id="b9f94b22-47f0-4f50-9814-8e6623a4629b" configVersion="4a02a7d44ac8504bbd5fe504d9103a7200000000">
 			<Metadata name="Catalog.ВнешниеОбработки.Attribute.ИмяФайла" id="4849ed3a-b8a4-44f7-bb85-40407932dda0"/>
 			<Metadata name="Catalog.ВнешниеОбработки.Attribute.Хранилище" id="8b2d21eb-eb7c-4595-ba39-993a6e588b98"/>
@@ -30,7 +30,7 @@
 		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента" id="a5351781-bd13-4ad1-815e-0072cc35a073" configVersion="85e0e74925315445952c6fbeddb8901400000000"/>
 		<Metadata name="Catalog.ВнешниеОбработки.Form.ФормаЭлемента.Form" id="a5351781-bd13-4ad1-815e-0072cc35a073.0" configVersion="fdde1ce1205b9749b067b50d355c210900000000"/>
 		<Metadata name="Catalog.ВнешниеОбработки.ManagerModule" id="b9f94b22-47f0-4f50-9814-8e6623a4629b.3" configVersion="f5bd0726bb0489458f4b0918b9fc98bc00000000"/>
-		<Metadata name="Catalog.Метрики" id="029057d3-95d5-40de-968a-ca6cf74df62d" configVersion="ab297e70bae476429092247cd2bfb43900000000">
+		<Metadata name="Catalog.Метрики" id="029057d3-95d5-40de-968a-ca6cf74df62d" configVersion="c79e25a434ada140a17e1a97e80c938800000000">
 			<Metadata name="Catalog.Метрики.Attribute.ОбработкаАнализаТекста" id="0e58ad22-da9b-4597-b6ad-f8cdaa9f5727"/>
 			<Metadata name="Catalog.Метрики.Attribute.АгрегатнаяФункция" id="34526c86-42b3-4b54-82b2-81e3fe783678"/>
 			<Metadata name="Catalog.Метрики.Command.ОбновитьМетрики" id="c037b005-aedf-4880-8bf9-3688b66a532d"/>
@@ -38,7 +38,7 @@
 		<Metadata name="Catalog.Метрики.Command.ОбновитьМетрики.CommandModule" id="c037b005-aedf-4880-8bf9-3688b66a532d.2" configVersion="e711a3f6e5623c4181334b855eda574500000000"/>
 		<Metadata name="Catalog.Метрики.Form.ФормаЭлемента" id="634a54a1-ec4f-439a-ba72-7a14e640fd25" configVersion="4ceac7809ce49b41b039bf595ac1e8b200000000"/>
 		<Metadata name="Catalog.Метрики.Form.ФормаЭлемента.Form" id="634a54a1-ec4f-439a-ba72-7a14e640fd25.0" configVersion="637d92d66a213149b0469aaba165b41300000000"/>
-		<Metadata name="Catalog.Метрики.ManagerModule" id="029057d3-95d5-40de-968a-ca6cf74df62d.3" configVersion="242e7c2c398c9a49b5848c65747f772e00000000"/>
+		<Metadata name="Catalog.Метрики.ManagerModule" id="029057d3-95d5-40de-968a-ca6cf74df62d.3" configVersion="bcd1055ff0bf104d9e3102946830c3ce00000000"/>
 		<Metadata name="Catalog.ПользователиХранилища" id="ffff528f-bcb5-430d-8e4a-6bbfa9e96353" configVersion="881612ebdbe262409a67bdd019e1615b00000000">
 			<Metadata name="Catalog.ПользователиХранилища.Command.ЗаполнитьEmail" id="1e5aa71e-703f-47b2-bc76-90ebd14aa683"/>
 			<Metadata name="Catalog.ПользователиХранилища.Attribute.ИмяПользователя" id="be685b3e-efc1-47ac-a4a5-501e1a136936"/>
@@ -66,7 +66,7 @@
 		<Metadata name="Catalog.ПроверкаАПК.Form.ФормаЭлемента" id="66ac5c94-7a76-4e47-b9e7-57582503ca02" configVersion="d7a2a1fcbfc093429089a97721f895b600000000"/>
 		<Metadata name="Catalog.ПроверкаАПК.Form.ФормаЭлемента.Form" id="66ac5c94-7a76-4e47-b9e7-57582503ca02.0" configVersion="3e1e3a2a1e2f6645a79fdf76d76dd7cf00000000"/>
 		<Metadata name="Catalog.ПроверкаАПК.ManagerModule" id="baf2971a-0643-4846-a1a6-43113ff68b1e.3" configVersion="7325736c8543254d8e4f7ba6d62ab39a00000000"/>
-		<Metadata name="Catalog.Хранилища" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d" configVersion="39117496d095264cad4bd170b0afe46100000000">
+		<Metadata name="Catalog.Хранилища" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d" configVersion="b048b357dd33f04e9aa000e35badf7d100000000">
 			<Metadata name="Catalog.Хранилища.Attribute.ИспользоватьВРегламентномЗадании" id="055502e3-2e4e-4597-b898-6f90dfdc7798"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ВыгружатьВУдаленныйРепозиторий" id="13dbb7e6-1073-42f0-8b89-3aeb2468622d"/>
 			<Metadata name="Catalog.Хранилища.Command.ВыгрузитьВерсииВРепозитории" id="143eef1f-8f30-451e-9fd4-a3ac0806bfba"/>
@@ -110,11 +110,11 @@
 		<Metadata name="Catalog.Хранилища.Form.ФормаСписка.Form" id="7b942bc1-ac77-4e52-b06b-dd9888fb10c7.0" configVersion="77129e6d85a3d444909b57064817fc1700000000"/>
 		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента" id="50f63a2f-794a-4307-9ca7-28c069b2da34" configVersion="f07dfbda594b084faf5ada2a3ef0ab4900000000"/>
 		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента.Form" id="50f63a2f-794a-4307-9ca7-28c069b2da34.0" configVersion="d1e2f4848034784b90039e92896f9f8400000000"/>
-		<Metadata name="Catalog.Хранилища.ManagerModule" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d.3" configVersion="6aadd53adaaac84eb9a4595d034bc0dc00000000"/>
+		<Metadata name="Catalog.Хранилища.ManagerModule" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d.3" configVersion="0b7f040421b50b4d918184318b2727f100000000"/>
 		<Metadata name="Catalog.Хранилища.ObjectModule" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d.0" configVersion="a8f96a873cc5e441a77f7caa2e6b0be400000000"/>
 		<Metadata name="CommandGroup.Действия" id="595f02f1-1483-4bb4-92f5-d04e4847d0b2" configVersion="2f50efb2591d1a4d996dae1271bd5e9f00000000"/>
-		<Metadata name="CommonModule.Git" id="1df14e34-e4f6-4835-a774-7e0c2ed7e002" configVersion="e7b48e7e501d164ca0831cd682f9117200000000"/>
-		<Metadata name="CommonModule.Git.Module" id="1df14e34-e4f6-4835-a774-7e0c2ed7e002.0" configVersion="bb8dc0c62acd4542a85ef2d54ed6bd0000000000"/>
+		<Metadata name="CommonModule.Git" id="1df14e34-e4f6-4835-a774-7e0c2ed7e002" configVersion="61ef8b9d015d3146b489dd82e94556d900000000"/>
+		<Metadata name="CommonModule.Git.Module" id="1df14e34-e4f6-4835-a774-7e0c2ed7e002.0" configVersion="3578108ec90daa4f87b44e494c3dcdf500000000"/>
 		<Metadata name="CommonModule._Глобальный" id="41b99ca2-f757-40db-b036-64aca6d5bcfb" configVersion="59e6024002418d40ab2f3f2b817c5de800000000"/>
 		<Metadata name="CommonModule._Глобальный.Module" id="41b99ca2-f757-40db-b036-64aca6d5bcfb.0" configVersion="b8fc00d06847634abb2da3272edf668c00000000"/>
 		<Metadata name="CommonModule._ОбщегоНазначенияПовтИсп" id="c4c70ccc-302c-4512-8789-19254bd78baf" configVersion="4e3047033031c240ab78a06412bfa37000000000"/>
@@ -131,8 +131,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="e271e084-177f-46d1-a006-100fa4838a2a.0" configVersion="ce48dab10a00a94aabfa89351688387d00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер" id="049873ed-a385-48e9-b543-ffe7db304731" configVersion="d008c27f3cf42941bf23fbd88ff96d3200000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер.Module" id="049873ed-a385-48e9-b543-ffe7db304731.0" configVersion="c2dba8cd71bc394c89a4126f9544be6e00000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="537a4f0bc75ffa42a7b00bd7f3ffb1d300000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="19c314483b824848900e644692760a7000000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="8c92f35a2a02a04ea21fbc6098996bdb00000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="115845db1b5eb14595d9d2083761469000000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="98d669fb-5d21-47bf-9ce3-46caac43d968" configVersion="a1b0e8c33a4d904180f6ef54d9f4c55100000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="98d669fb-5d21-47bf-9ce3-46caac43d968.0" configVersion="9c536ad2579d264db49a1100ce1ac6d900000000"/>
 		<Metadata name="CommonPicture.Git" id="c051968d-846c-4374-be82-c6b569e71fdf" configVersion="aae4a33e49996340b4c6574e9cce68b600000000"/>
