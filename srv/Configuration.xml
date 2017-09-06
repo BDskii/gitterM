@@ -179,7 +179,6 @@
 			<Enum>ТипыИзменений</Enum>
 			<Enum>ВидыОбработок</Enum>
 			<Report>ОтчетПоМетрикам</Report>
-			<InformationRegister>УдалитьСписокИзменений</InformationRegister>
 			<InformationRegister>ДанныеМетрик</InformationRegister>
 		</ChildObjects>
 	</Configuration>

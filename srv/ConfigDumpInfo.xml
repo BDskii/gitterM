@@ -143,7 +143,7 @@
 		<Metadata name="CommonPicture.Метрики.Picture" id="aae9ded2-9253-4904-ada5-67a47bb87bb5.0" configVersion="bb6814b3b75787489f231166e85b740700000000"/>
 		<Metadata name="CommonPicture.ТипыОбъектов" id="56edfe3c-9e3a-4528-a424-5461b3974f6b" configVersion="7408d2ed4180554cb52223209e167a6300000000"/>
 		<Metadata name="CommonPicture.ТипыОбъектов.Picture" id="56edfe3c-9e3a-4528-a424-5461b3974f6b.0" configVersion="16e21dcce3c37746a5fa9881ea2f94d900000000"/>
-		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="ca1d23192cc4524da01b40919637e36800000000"/>
+		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="b7a2deb820532f4abb9658b22868b19600000000"/>
 		<Metadata name="Configuration.GitterM.ClientApplicationInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.b" configVersion="dc2e8498809b5046a7248ebf0288a58200000000"/>
 		<Metadata name="Configuration.GitterM.HomePageWorkArea" id="cd2e99ec-a100-460e-b45b-9040a0e23457.8" configVersion="564ab1ab0197d44ab92611e8922d508800000000"/>
 		<Metadata name="Configuration.GitterM.MainSectionCommandInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.9" configVersion="254f09acec63bf42b6a4932cfb91656500000000"/>
@@ -231,16 +231,6 @@
 			<Metadata name="InformationRegister.ДанныеМетрик.Dimension.Хранилище" id="ad351727-5d75-4976-9fd3-c2407d5bb709"/>
 			<Metadata name="InformationRegister.ДанныеМетрик.Dimension.Метрика" id="fe67ef22-d960-4b72-97c3-50561d27ce73"/>
 		</Metadata>
-		<Metadata name="InformationRegister.УдалитьСписокИзменений" id="f472167e-c681-4705-83e4-701fc3d48591" configVersion="3a8d71b610b8d448ba6545819ee06e3400000000">
-			<Metadata name="InformationRegister.УдалитьСписокИзменений.Resource.Объект" id="2d3ac942-61eb-46ba-8607-1026cb39e3a4"/>
-			<Metadata name="InformationRegister.УдалитьСписокИзменений.Dimension.Хранилище" id="7d514af4-5999-46c9-a204-54805db7178c"/>
-			<Metadata name="InformationRegister.УдалитьСписокИзменений.Resource.ТипОбъекта" id="848710b9-9327-4f1c-ab27-8cb0973f2a54"/>
-			<Metadata name="InformationRegister.УдалитьСписокИзменений.Dimension.ПутьКФайлу" id="9d76eab9-23ed-4197-9664-f3fec109ec88"/>
-			<Metadata name="InformationRegister.УдалитьСписокИзменений.Resource.Версия" id="e74de371-317e-4677-a8bd-642b6e11454a"/>
-		</Metadata>
-		<Metadata name="InformationRegister.УдалитьСписокИзменений.Form.ФормаСписка" id="ab3aec6c-c53c-4e55-80c3-477706ec27ef" configVersion="fb0a3745badb394fabcdd839ebe2a8c500000000"/>
-		<Metadata name="InformationRegister.УдалитьСписокИзменений.Form.ФормаСписка.Form" id="ab3aec6c-c53c-4e55-80c3-477706ec27ef.0" configVersion="b98afa2905e93349958e8b3d8db81f8900000000"/>
-		<Metadata name="InformationRegister.УдалитьСписокИзменений.RecordSetModule" id="f472167e-c681-4705-83e4-701fc3d48591.1" configVersion="204db5cc01e88549a4347ca2b30b055a00000000"/>
 		<Metadata name="Language.Русский" id="a18a5337-1ded-40c6-9674-34034a4b4dd3" configVersion="31886a1412096244a4aecc3f7fb04e3c00000000"/>
 		<Metadata name="Report.ОтчетПоМетрикам" id="b9df6da1-17a2-42f0-867f-701b90655a66" configVersion="c369105ebadd414ead420c700e39f00400000000"/>
 		<Metadata name="Report.ОтчетПоМетрикам.Template.ОсновнаяСхемаКомпоновкиДанных" id="7fe7e501-eb60-4bd3-a78b-02db3039c7aa" configVersion="328a5f3f23717840beb7f1447b945d8300000000"/>
