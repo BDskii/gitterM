@@ -131,8 +131,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="e271e084-177f-46d1-a006-100fa4838a2a.0" configVersion="ce48dab10a00a94aabfa89351688387d00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер" id="049873ed-a385-48e9-b543-ffe7db304731" configVersion="d008c27f3cf42941bf23fbd88ff96d3200000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер.Module" id="049873ed-a385-48e9-b543-ffe7db304731.0" configVersion="c2dba8cd71bc394c89a4126f9544be6e00000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="c347c45daaaef84bb2eba1df92224ccf00000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="15749d7fa918f64f9c6203a5bbd4d15a00000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="25213329eb2e374ab4e5e17823ebd2d100000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="ee560a3040aa8542bfc0215bbb10780400000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="98d669fb-5d21-47bf-9ce3-46caac43d968" configVersion="a1b0e8c33a4d904180f6ef54d9f4c55100000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="98d669fb-5d21-47bf-9ce3-46caac43d968.0" configVersion="9c536ad2579d264db49a1100ce1ac6d900000000"/>
 		<Metadata name="CommonPicture.Git" id="c051968d-846c-4374-be82-c6b569e71fdf" configVersion="aae4a33e49996340b4c6574e9cce68b600000000"/>
