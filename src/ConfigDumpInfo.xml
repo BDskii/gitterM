@@ -143,7 +143,9 @@
 		<Metadata name="CommonPicture.Метрики.Picture" id="aae9ded2-9253-4904-ada5-67a47bb87bb5.0" configVersion="bb6814b3b75787489f231166e85b740700000000"/>
 		<Metadata name="CommonPicture.ТипыОбъектов" id="56edfe3c-9e3a-4528-a424-5461b3974f6b" configVersion="7408d2ed4180554cb52223209e167a6300000000"/>
 		<Metadata name="CommonPicture.ТипыОбъектов.Picture" id="56edfe3c-9e3a-4528-a424-5461b3974f6b.0" configVersion="16e21dcce3c37746a5fa9881ea2f94d900000000"/>
-		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="b7a2deb820532f4abb9658b22868b19600000000"/>
+		<Metadata name="CommonTemplate.Tool_1CD" id="6aad43d3-8097-44a7-825c-e42a9a40653c" configVersion="39672b4e87d048469e0d737745832ea900000000"/>
+		<Metadata name="CommonTemplate.Tool_1CD.Template" id="6aad43d3-8097-44a7-825c-e42a9a40653c.0" configVersion="3ada1fbd1e612b4eb3bc4eeab2a6031b00000000"/>
+		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="dc6b195dc96c314f9184cd1fe34fadd500000000"/>
 		<Metadata name="Configuration.GitterM.ClientApplicationInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.b" configVersion="dc2e8498809b5046a7248ebf0288a58200000000"/>
 		<Metadata name="Configuration.GitterM.HomePageWorkArea" id="cd2e99ec-a100-460e-b45b-9040a0e23457.8" configVersion="564ab1ab0197d44ab92611e8922d508800000000"/>
 		<Metadata name="Configuration.GitterM.MainSectionCommandInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.9" configVersion="254f09acec63bf42b6a4932cfb91656500000000"/>
@@ -243,7 +245,7 @@
 		<Metadata name="SessionParameter.НеПредлагатьУстановкуРасширенияРаботыСФайламиВТеченииСеанса" id="109b9cc6-8ca1-424f-91b2-e7a316e050a1" configVersion="98ad83ac1413724f9deee748e3632f6300000000"/>
 		<Metadata name="Style.ирОсновной" id="d4fb5140-8838-483f-9452-47ac6138c9d1" configVersion="937b24e382e9954590116332a0140c9400000000"/>
 		<Metadata name="Style.ирОсновной.Style" id="d4fb5140-8838-483f-9452-47ac6138c9d1.0" configVersion="e0bdc8fff1eb2d419b3439363e9eaa6000000000"/>
-		<Metadata name="Subsystem.GIT" id="dca1dc94-6477-42fa-89d2-8ea96ab8fffa" configVersion="066c4b591d4f5e458f92c99842b66f4400000000"/>
+		<Metadata name="Subsystem.GIT" id="dca1dc94-6477-42fa-89d2-8ea96ab8fffa" configVersion="af8fbd7248ae6847bd319a98fe99438800000000"/>
 		<Metadata name="Subsystem.АПК" id="67317dab-1328-43c1-8ffd-f7db1fe405ff" configVersion="01eaedb9e8680a4f8b58b982a57bfe8300000000"/>
 		<Metadata name="Subsystem.Метрики" id="9be53869-08c6-4441-a2da-06d0397dc4e9" configVersion="85816f7acadcfb479186f897a18b7beb00000000"/>
 	</ConfigVersions>

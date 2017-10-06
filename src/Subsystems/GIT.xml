@@ -26,6 +26,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВерсииКонфигурацийХранилища</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПользователиХранилища</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Хранилища</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.Tool_1CD</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
