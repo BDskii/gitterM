@@ -66,7 +66,7 @@
 		<Metadata name="Catalog.ПроверкаАПК.Form.ФормаЭлемента" id="66ac5c94-7a76-4e47-b9e7-57582503ca02" configVersion="d7a2a1fcbfc093429089a97721f895b600000000"/>
 		<Metadata name="Catalog.ПроверкаАПК.Form.ФормаЭлемента.Form" id="66ac5c94-7a76-4e47-b9e7-57582503ca02.0" configVersion="3e1e3a2a1e2f6645a79fdf76d76dd7cf00000000"/>
 		<Metadata name="Catalog.ПроверкаАПК.ManagerModule" id="baf2971a-0643-4846-a1a6-43113ff68b1e.3" configVersion="7325736c8543254d8e4f7ba6d62ab39a00000000"/>
-		<Metadata name="Catalog.Хранилища" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d" configVersion="47b438aafe47e147b48fbf8db445dcbd00000000">
+		<Metadata name="Catalog.Хранилища" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d" configVersion="3b81da69e3b6094797c2a0cd208416a100000000">
 			<Metadata name="Catalog.Хранилища.Attribute.ИспользоватьВРегламентномЗадании" id="055502e3-2e4e-4597-b898-6f90dfdc7798"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ВыгружатьВУдаленныйРепозиторий" id="13dbb7e6-1073-42f0-8b89-3aeb2468622d"/>
 			<Metadata name="Catalog.Хранилища.Command.ВыгрузитьВерсииВРепозитории" id="143eef1f-8f30-451e-9fd4-a3ac0806bfba"/>
@@ -92,6 +92,7 @@
 			<Metadata name="Catalog.Хранилища.Attribute.ТранзитнаяБазаПользователь" id="9ceff3bd-64e6-4bbd-8db8-5de552b86507"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ВыполняетсяПроверкаАПК" id="a1b4803c-78ec-4f95-bad7-f6616c269fe3"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ХранилищеПароль" id="a73abe76-e9ac-4857-9fbf-e4751f8b21ae"/>
+			<Metadata name="Catalog.Хранилища.Attribute.ИспользоватьTool1CD" id="b0b02e4b-4c63-406a-a17b-5c37789abd3a"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ВРаботе" id="baeec408-7339-4f4a-b473-5b651d4da1a6"/>
 			<Metadata name="Catalog.Хранилища.Attribute.ФайлВыводаСлужебныхСообщений" id="c1bc481c-518d-4a7f-b40f-a7b0ed54c229"/>
 			<Metadata name="Catalog.Хранилища.Attribute.РаспаковыватьОбычныеФормы" id="c3786965-f234-4d9c-a9b6-eb100cfb6c58"/>
@@ -108,8 +109,8 @@
 		<Metadata name="Catalog.Хранилища.Command.ИнициироватьЛокальныйРепозиторий.CommandModule" id="5e668a69-6683-4e4c-9801-e329b0a254e1.2" configVersion="66903a335865f948bef153484b3040bf00000000"/>
 		<Metadata name="Catalog.Хранилища.Form.ФормаСписка" id="7b942bc1-ac77-4e52-b06b-dd9888fb10c7" configVersion="45758508fccfd541a8ca742560bcd9eb00000000"/>
 		<Metadata name="Catalog.Хранилища.Form.ФормаСписка.Form" id="7b942bc1-ac77-4e52-b06b-dd9888fb10c7.0" configVersion="77129e6d85a3d444909b57064817fc1700000000"/>
-		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента" id="50f63a2f-794a-4307-9ca7-28c069b2da34" configVersion="f07dfbda594b084faf5ada2a3ef0ab4900000000"/>
-		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента.Form" id="50f63a2f-794a-4307-9ca7-28c069b2da34.0" configVersion="d1e2f4848034784b90039e92896f9f8400000000"/>
+		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента" id="50f63a2f-794a-4307-9ca7-28c069b2da34" configVersion="29457f93598f9a40b156b0f89fd63d9b00000000"/>
+		<Metadata name="Catalog.Хранилища.Form.ФормаЭлемента.Form" id="50f63a2f-794a-4307-9ca7-28c069b2da34.0" configVersion="d259fbdfda8b714c9fdd681e6bbf1f3b00000000"/>
 		<Metadata name="Catalog.Хранилища.ManagerModule" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d.3" configVersion="c99495f3d818cf43b2f4e5378409492600000000"/>
 		<Metadata name="Catalog.Хранилища.ObjectModule" id="ad51c94d-5e55-4d20-8ae6-211fc2c6694d.0" configVersion="a8f96a873cc5e441a77f7caa2e6b0be400000000"/>
 		<Metadata name="CommandGroup.Действия" id="595f02f1-1483-4bb4-92f5-d04e4847d0b2" configVersion="2f50efb2591d1a4d996dae1271bd5e9f00000000"/>
@@ -131,8 +132,8 @@
 		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="e271e084-177f-46d1-a006-100fa4838a2a.0" configVersion="ce48dab10a00a94aabfa89351688387d00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер" id="049873ed-a385-48e9-b543-ffe7db304731" configVersion="d008c27f3cf42941bf23fbd88ff96d3200000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияПривилегированныйСервер.Module" id="049873ed-a385-48e9-b543-ffe7db304731.0" configVersion="c2dba8cd71bc394c89a4126f9544be6e00000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="25213329eb2e374ab4e5e17823ebd2d100000000"/>
-		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="ee560a3040aa8542bfc0215bbb10780400000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим" id="5682fd40-f4fb-431c-b460-65ab41f339d3" configVersion="8c569b5362e26b4a91c840f48fd1ff5300000000"/>
+		<Metadata name="CommonModule.ПакетныйРежим.Module" id="5682fd40-f4fb-431c-b460-65ab41f339d3.0" configVersion="eb4c5abf9978cb4d9c08400295423ff500000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="98d669fb-5d21-47bf-9ce3-46caac43d968" configVersion="a1b0e8c33a4d904180f6ef54d9f4c55100000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="98d669fb-5d21-47bf-9ce3-46caac43d968.0" configVersion="9c536ad2579d264db49a1100ce1ac6d900000000"/>
 		<Metadata name="CommonPicture.Git" id="c051968d-846c-4374-be82-c6b569e71fdf" configVersion="aae4a33e49996340b4c6574e9cce68b600000000"/>
@@ -145,7 +146,7 @@
 		<Metadata name="CommonPicture.ТипыОбъектов.Picture" id="56edfe3c-9e3a-4528-a424-5461b3974f6b.0" configVersion="16e21dcce3c37746a5fa9881ea2f94d900000000"/>
 		<Metadata name="CommonTemplate.Tool_1CD" id="6aad43d3-8097-44a7-825c-e42a9a40653c" configVersion="39672b4e87d048469e0d737745832ea900000000"/>
 		<Metadata name="CommonTemplate.Tool_1CD.Template" id="6aad43d3-8097-44a7-825c-e42a9a40653c.0" configVersion="3ada1fbd1e612b4eb3bc4eeab2a6031b00000000"/>
-		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="dc6b195dc96c314f9184cd1fe34fadd500000000"/>
+		<Metadata name="Configuration.GitterM" id="6c32c860-f270-403d-9a20-171bfd4b0b71" configVersion="ee49ed5c5bdfb741addfa18ce77a6a5900000000"/>
 		<Metadata name="Configuration.GitterM.ClientApplicationInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.b" configVersion="dc2e8498809b5046a7248ebf0288a58200000000"/>
 		<Metadata name="Configuration.GitterM.HomePageWorkArea" id="cd2e99ec-a100-460e-b45b-9040a0e23457.8" configVersion="564ab1ab0197d44ab92611e8922d508800000000"/>
 		<Metadata name="Configuration.GitterM.MainSectionCommandInterface" id="cd2e99ec-a100-460e-b45b-9040a0e23457.9" configVersion="254f09acec63bf42b6a4932cfb91656500000000"/>

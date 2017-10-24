@@ -390,6 +390,18 @@
 							<ContextMenu name="РаспаковыватьОбычныеФормыКонтекстноеМеню" id="130"/>
 							<ExtendedTooltip name="РаспаковыватьОбычныеФормыРасширеннаяПодсказка" id="131"/>
 						</CheckBoxField>
+						<CheckBoxField name="ИспользоватьTool1CD" id="237">
+							<DataPath>Объект.ИспользоватьTool1CD</DataPath>
+							<ToolTip>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Использовать для получения версий из хранилища утилиту Tool 1CD вместо отчета по версиям конфигуратора.</v8:content>
+								</v8:item>
+							</ToolTip>
+							<CheckBoxType>Auto</CheckBoxType>
+							<ContextMenu name="ИспользоватьTool1CDКонтекстноеМеню" id="238"/>
+							<ExtendedTooltip name="ИспользоватьTool1CDРасширеннаяПодсказка" id="239"/>
+						</CheckBoxField>
 					</ChildItems>
 				</Page>
 				<Page name="ГруппаСтраницаМетрики" id="216">
