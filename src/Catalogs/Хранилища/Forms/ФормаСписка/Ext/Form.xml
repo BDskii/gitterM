@@ -172,26 +172,17 @@
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Действия</CommandGroup>
 				<Index>2</Index>
-				<Visible>
-					<xr:Common>false</xr:Common>
-				</Visible>
 			</Item>
 			<Item>
 				<Command>Catalog.Хранилища.Command.ЗагрузитьПользователейХранилища</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Действия</CommandGroup>
 				<Index>1</Index>
-				<Visible>
-					<xr:Common>false</xr:Common>
-				</Visible>
 			</Item>
 			<Item>
 				<Command>Catalog.Хранилища.Command.ИнициироватьЛокальныйРепозиторий</Command>
 				<Type>Auto</Type>
 				<CommandGroup>CommandGroup.Действия</CommandGroup>
-				<Visible>
-					<xr:Common>false</xr:Common>
-				</Visible>
 			</Item>
 		</CommandBar>
 	</CommandInterface>

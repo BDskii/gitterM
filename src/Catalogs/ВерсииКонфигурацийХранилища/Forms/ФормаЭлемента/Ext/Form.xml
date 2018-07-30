@@ -200,7 +200,7 @@
 							<RowPictureDataPath>Объект.ИзмененныеОбъекты.ИндексКартинки</RowPictureDataPath>
 							<RowsPicture>
 								<xr:Ref>CommonPicture.ТипыОбъектов</xr:Ref>
-								<xr:LoadTransparent>true</xr:LoadTransparent>
+								<xr:LoadTransparent>false</xr:LoadTransparent>
 							</RowsPicture>
 							<RowFilter xsi:nil="true"/>
 							<ContextMenu name="ИзмененныеОбъектыКонтекстноеМеню" id="57"/>

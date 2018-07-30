@@ -152,6 +152,7 @@
 			<CommonPicture>АПК</CommonPicture>
 			<CommonPicture>Метрики</CommonPicture>
 			<SessionParameter>НеПредлагатьУстановкуРасширенияРаботыСФайламиВТеченииСеанса</SessionParameter>
+			<CommonTemplate>V8Unpack</CommonTemplate>
 			<CommonTemplate>Tool_1CD</CommonTemplate>
 			<CommonModule>_Глобальный</CommonModule>
 			<CommonModule>_ОбщегоНазначенияПовтИсп</CommonModule>
@@ -168,7 +169,6 @@
 			<ScheduledJob>ПроверкаАПК</ScheduledJob>
 			<ScheduledJob>ЗагрузкаНовыхВерсий</ScheduledJob>
 			<CommandGroup>Действия</CommandGroup>
-			<Constant>ПрограммаРаспаковки</Constant>
 			<Constant>МаксимальныйСрокЗахвата</Constant>
 			<Catalog>ВерсииКонфигурацийХранилища</Catalog>
 			<Catalog>ПользователиХранилища</Catalog>
